@@ -1,0 +1,2 @@
+The quick brown fox jumped over the old lazy dog.
+We are in Cohort 12 class getting introduced to git
